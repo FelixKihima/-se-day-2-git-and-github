@@ -196,11 +196,11 @@ Solution: Use GitHub Issues for task management and maintain a good README.md an
 
 
 # Best Practices for Smooth Collaboration
-Use Descriptive Branch Names
-Commit Often, but Meaningfully to keep track of changes incrementally.
-Rebase Instead of Merging When Necessary to keep history clean.
-Automate Tests with CI/CD (e.g., GitHub Actions) to ensure stability.
-Engage in Code Reviews for better code quality and knowledge sharing.
+1.Use Descriptive Branch Names
+2.Commit Often, but Meaningfully to keep track of changes incrementally.
+3.Rebase Instead of Merging When Necessary to keep history clean.
+4.Automate Tests with CI/CD (e.g., GitHub Actions) to ensure stability.
+5.Engage in Code Reviews for better code quality and knowledge sharing.
 
 
 
